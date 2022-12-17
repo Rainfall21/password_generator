@@ -1,0 +1,3 @@
+facebook | some_email@gmail.com | 123456
+amazon | some_email@gmail.com | qwerty
+Vkontakte | some_email@gmail.com | 123456
